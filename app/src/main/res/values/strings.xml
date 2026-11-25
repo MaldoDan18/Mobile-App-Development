@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NavigationPractice</string>
+    <string name="firstbutton">The first button of the activity</string>
+    <string name="voids">   </string>
+    <string name="gotosecond">Go to second activity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="go_to_second_activity_fragment_btn">Go to second activity</string>
+
+</resources>
